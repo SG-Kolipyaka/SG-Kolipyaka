@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sg-kolipyaka" alt="sg-kolipyaka" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://SG-Kolipyaka.github.io](https://SG-Kolipyaka.github.io/)
+- 👨‍💻 All of my projects are available at [https://SG-Kolipyaka.github.io/](https://SG-Kolipyaka.github.io/)
 
 - 💬 Ask me about **react,redux,Js,HTML,CSS,TypeScript,Chakra UI**
 
