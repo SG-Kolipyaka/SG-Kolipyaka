@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer…🏻💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF5733&amp;size=19&amp;lines=Hey!+👋+It's+Sumit+Kolipyaka!;Full+Stack-Web+Developer…🏻💻;" style="width: 100%;">
 <!-- <h1 align="center">Hi 👋, I'm Sumit Kolipyaka</h1> -->
 <h3 align="center">A passionate MERN developer from India</h3>
 
