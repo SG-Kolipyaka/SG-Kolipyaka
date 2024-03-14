@@ -9,7 +9,8 @@
 
 - 👨‍💻 Portfolio: [https://SG-Kolipyaka.github.io/](https://SG-Kolipyaka.github.io/)
 
-- 💬 Ask me about **react,redux,Js,HTML,CSS,TypeScript,Chakra UI**
+- 💬 Ask me about **FrontEnd :- react, redux, JavaScript, HTML, CSS, TypeScript, Chakra UI, Material UI, React Native, Next.js**
+-                  **BackEnd :- Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt, REST API**
 
 - 📫 How to reach me **sumitkolipyaka99@gmail.com**
 
